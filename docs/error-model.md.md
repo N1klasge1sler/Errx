@@ -1,7 +1,7 @@
 # Error Model – Errx
 
 ## Purpose
-This document defines the **standardized internal representation of errors** in Error-Clarity.
+This document defines the **standardized internal representation of errors** in Errc.
 The goal is to convert **all types of terminal errors** (Python, JavaScript, Rust, etc.) into a **consistent format** so that the AI agent can analyze and provide explanations, root-cause analysis, and fix suggestions reliably.
 
 ---
@@ -64,3 +64,4 @@ The goal is to convert **all types of terminal errors** (Python, JavaScript, Rus
   "project_root": "/home/user/projects/my-app",
   "notes": "Error happened during unit test run"
 }
+
