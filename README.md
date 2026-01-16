@@ -29,3 +29,13 @@ Error-Clarity consists of:
 - A context engine for project awareness
 - An agent layer for explanation and fixes
 - Pluggable LLM provider adapters
+  
+## Roadmap
+See [ROADMAP.md](./ROADMAP.md) for planned milestones and phases.
+
+## Contributing
+Contributions are welcome.
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening issues or pull requests.
+
+## License
+This project is licensed under the Apache License 2.0.
