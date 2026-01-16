@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in contributing to Error-Clarity.
+Thanks for your interest in contributing to Errx.
 
 ## Guidelines
 - Keep changes focused and minimal
